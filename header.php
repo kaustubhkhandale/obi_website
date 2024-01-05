@@ -14,7 +14,7 @@
               <div class="col-lg-6">
                 <div class="header-topbar-text">
                   <p>
-                    Transform Your Business With Our IT Solutions Where Vision
+                    Transform test Your Business With Our IT Solutions Where Vision
                     Meets Execution
                   </p>
                 </div>
