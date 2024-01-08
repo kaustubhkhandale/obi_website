@@ -1337,8 +1337,24 @@ p {
   width: 160px;
 }
 .infetech-header-area-2 .header-main-nav-layout-2 .header-main-nav-box ul li {
-  padding: 0;
+  padding: 0px;
 }
+.infetech-header-area-2
+  .header-main-nav-layout-2
+  .header-main-nav-box
+  ul
+  .main-li {
+  padding: 10px;
+}
+.infetech-header-area-2
+  .header-main-nav-layout-2
+  .header-main-nav-box
+  ul
+  .main-li:hover {
+  background-color: #1d1729;
+  border-radius: 4px;
+}
+
 .infetech-header-area-2 .header-main-nav-layout-2 .header-main-nav-box ul li a {
   color: #fff;
 }
@@ -1773,7 +1789,7 @@ p {
   overflow: hidden;
   margin-bottom: 120px;
   margin-top: -2px;
-  margin-top: 120px;
+  /* margin-top: 120px; */
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .infetech-banner-area {

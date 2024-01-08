@@ -1,54 +1,34 @@
-<!--====== INFETECH HEADER PART START ======-->
-<section class="infetech-header-area header-sticky">
-      <div class="header-wrapper">
-        <div class="templates-logo">
-          <a href="index.html"
-            ><img
-              src="assets/images/logo-orangebitsindia-300x64.png"
-              alt="Orangebits Software Technology - Logo"
-          /></a>
-        </div>
-        <div class="header-box">
-          <div class="header-topbar">
-            <div class="row g-0 align-items-center">
-              <div class="col-lg-6">
-                <div class="header-topbar-text">
-                  <p>
-                    Transform Your Business With Our IT Solutions Where Vision
-                    Meets Execution
-                  </p>
+<header class="infetech-header-area-2 infetech-header-area-3">
+    <div class="top-line"></div>
+    <div class="header-main-nav-layout-2 header-sticky">
+        <div class="row align-items-center">
+            <div class="col-md-3">
+                <div class="logo-white">
+                    <a href="index-2.html"><img src="assets/images/logo-orangebitsindia-768x165" alt=""></a>
                 </div>
-              </div>
-              <div class="col-lg-6">
-                <div class="header-topbar-info-wrapper">
-                  <div class="header-topbar-info">
-                    <ul>
-                      <li>
-                        <i class="fas fa-envelope"></i> needhelp@company.com
-                      </li>
-                      <li>
-                        <i class="fas fa-clock"></i> Mon - Sat: 8.00 am - 7.00
-                        pm
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="header-topbar-social">
-                    <ul>
-                      <li><i class="fab fa-twitter"></i></li>
-                      <li><i class="fab fa-facebook-f"></i></li>
-                      <li><i class="fab fa-linkedin-in"></i></li>
-                      <li><i class="fab fa-instagram"></i></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
             </div>
-          </div>
-         <!-- main menu start-->
-         <?php include('navbar.php'); ?>
-         <!-- main menu end-->
+            <div class="col-md-6">
+                <?php include("navbar.php")?>
+            </div>
+            <div class="col-md-3">
+                <div class="header-main-info">
+                    <div class="header-mini-btn">
+                        <ul>
+                            <li><a class="search-box-btn" href="#"><i class="fal fa-search"></i></a></li>
+                            <li><a class="toggle-bar canvas_open" href="#"><i class="fal fa-bars"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="header-main-info-contact">
+                        <div class="icon">
+                            <img src="assets/images/icon/phone-white-2.svg" alt="">
+                        </div>
+                        <div class="content">
+                            <span>Call Anytime</span>
+                            <a href="tel:8446989833">8446 989 833</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </section>
-
-    <!--====== INFETECH HEADER PART ENDS ======-->
+    </div>
+</header>
