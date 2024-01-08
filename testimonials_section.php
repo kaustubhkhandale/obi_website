@@ -46,8 +46,8 @@
                             <img src="assets/images/testimonial-thumb-2.png" alt="" />
                         </div>
                         <div class="user-content">
-                            <h5 class="title">Aleesha Smith</h5>
-                            <span>Senior Developer</span>
+                            <h5 class="title">Manish Peshkar</h5>
+                            <span>Director MicroPro</span>
                             <img src="assets/images/testimonial-shape.png" alt="" />
                         </div>
                     </div>
@@ -60,9 +60,9 @@
                             <li><i class="fas fa-star"></i></li>
                         </ul>
                         <p>
-                            This is due to their excellent service, competitive pricing
-                            and customer support. It’s refresing to get such a personal
-                            touch. Duis aute lorem ipsum is simply free text reprehen.
+                            Our development experience with OrangeBits Software Technologies has been fantastic. They
+                            have developed multiple mobile solutions for our various enterprise products. They have
+                            adapted flexibly to our needs.
                         </p>
                     </div>
                 </div>
@@ -74,8 +74,8 @@
                             <img src="assets/images/testimonial-thumb-1.png" alt="" />
                         </div>
                         <div class="user-content">
-                            <h5 class="title">Mike Hardson</h5>
-                            <span>Senior Designer</span>
+                            <h5 class="title">Fred Milestone</h5>
+                            <span>CTO, SaaS Product</span>
                             <img src="assets/images/testimonial-shape.png" alt="" />
                         </div>
                     </div>
@@ -88,9 +88,9 @@
                             <li><i class="fas fa-star"></i></li>
                         </ul>
                         <p>
-                            This is due to their excellent service, competitive pricing
-                            and customer support. It’s refresing to get such a personal
-                            touch. Duis aute lorem ipsum is simply free text reprehen.
+                            What I really appreciated was their rare ability to listen, ask questions, brainstorm
+                            solutions, plan, and execute with true agility. The team is always on time and under budget.
+                            There’s no guesswork with these guys.
                         </p>
                     </div>
                 </div>
