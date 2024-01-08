@@ -165,7 +165,7 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #5f2dee;
+  background-color: #f47726;
   position: relative;
   z-index: 10;
   overflow: hidden;
@@ -174,7 +174,7 @@ p {
 .main-btn::before {
   position: absolute;
   content: "";
-  background-color: #b882fc;
+  background-color: #040505;
   width: 100%;
   height: 0%;
   left: 50%;
@@ -189,8 +189,8 @@ p {
 }
 .main-btn:hover {
   background-color: #fff;
-  color: #5f2dee;
-  border-color: #5f2dee;
+  color: #f47726;
+  border-color: #f47726;
 }
 .main-btn:hover::before {
   height: 400px;
@@ -210,7 +210,7 @@ p {
   }
 }
 .section-title span {
-  color: #5f2dee;
+  color: #f47726;
   font-size: 16px;
   font-weight: 600;
   position: relative;
@@ -223,7 +223,7 @@ p {
   top: 50%;
   transform: translateY(-50%);
   height: 2px;
-  background: #5f2dee;
+  background: #f47726;
   width: 16px;
 }
 .section-title .title {
@@ -548,7 +548,7 @@ p {
   bottom: 0;
   height: 2px;
   width: 0px;
-  background: #5f2dee;
+  background: #f47726;
   transition: all linear 0.3s;
 }
 .header-main-nav-box ul li a:hover {
@@ -754,7 +754,7 @@ p {
   width: 50px;
   text-align: center;
   line-height: 50px;
-  background: #5f2dee;
+  background: #f47726;
   border-radius: 50%;
 }
 .header-main-info .header-main-info-contact .content {
@@ -1351,10 +1351,17 @@ p {
   .header-main-nav-box
   ul
   .main-li:hover {
-  background-color: #1d1729;
+  background-color: #1d172924;
   border-radius: 4px;
 }
-
+.infetech-header-area-2
+  .header-main-nav-layout-2
+  .header-main-nav-box
+  ul
+  .main-li:hover
+  a {
+  color: #040505;
+}
 .infetech-header-area-2 .header-main-nav-layout-2 .header-main-nav-box ul li a {
   color: #fff;
 }
@@ -1472,7 +1479,7 @@ p {
 .infetech-header-area-2.infetech-header-area-3 .top-line {
   height: 5px;
   width: 100%;
-  background: #b882fc;
+  background: #040505;
   position: absolute;
   z-index: 199;
   left: 0;
@@ -1485,7 +1492,7 @@ p {
   top: 0;
   height: 5px;
   width: 50%;
-  background: #5f2dee;
+  background: #f47726;
 }
 .infetech-header-area-2.infetech-header-area-3 .header-main-nav-layout-2 {
   top: 5px;
@@ -1544,7 +1551,7 @@ p {
   bottom: 0;
   height: 2px;
   width: 0px;
-  background: #5f2dee;
+  background: #f47726;
   transition: all linear 0.3s;
 }
 .infetech-header-area-2.infetech-header-area-3
@@ -1583,7 +1590,7 @@ p {
   .header-main-info
   .header-main-info-contact
   .icon {
-  background: #5f2dee;
+  background: #f47726;
 }
 .infetech-header-area-2.infetech-header-area-3
   .header-main-nav-layout-2
@@ -1669,7 +1676,7 @@ p {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #5f2dee;
+  background: #f47726;
   -webkit-animation: ball-pulse-sync 0.6s 0s infinite ease-in-out;
   animation: ball-pulse-sync 0.6s 0s infinite ease-in-out;
 }
@@ -2163,7 +2170,7 @@ p {
   .infetech-banner-content
   span {
   font-weight: 800;
-  color: #5f2dee;
+  color: #f47726;
   text-transform: uppercase;
   letter-spacing: 2.5px;
 }
@@ -2319,7 +2326,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
   border-radius: 50%;
   animation: play-popup 2s infinite;
 }
@@ -2411,7 +2418,7 @@ p {
   display: inline-block;
   height: 102px;
   width: 102px;
-  background: #5f2dee;
+  background: #f47726;
   border-radius: 50%;
   text-align: center;
   line-height: 98px;
@@ -2438,7 +2445,7 @@ p {
   transform: translate(-50%, -50%);
   height: 140px;
   width: 140px;
-  border: 20px solid #5f2dee;
+  border: 20px solid #f47726;
   border-radius: 50%;
   opacity: 0.05;
 }
@@ -2553,7 +2560,7 @@ p {
   margin-bottom: 37px;
 }
 .banner-content-5 a {
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
 }
 
 .breadcrumb-area {
@@ -2740,9 +2747,9 @@ p {
   line-height: 125px;
   background: #000;
   border-radius: 50%;
-  background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+  background-image: -moz-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -webkit-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -ms-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
   box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
   position: relative;
   z-index: 10;
@@ -2836,7 +2843,7 @@ p {
 }
 .infetech-about-content span {
   font-size: 16px;
-  color: #5f2dee;
+  color: #f47726;
   padding-left: 28px;
   position: relative;
   font-weight: 600;
@@ -2848,7 +2855,7 @@ p {
   bottom: 8px;
   height: 2px;
   width: 16px;
-  background: #5f2dee;
+  background: #f47726;
 }
 .infetech-about-content > .title {
   font-size: 45px;
@@ -2918,11 +2925,11 @@ p {
   line-height: 38px;
 }
 .infetech-about-content ul li i {
-  color: #b882fc;
+  color: #4c4c4c;
   padding-right: 9px;
 }
 .infetech-about-content > a {
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
 }
 
 .infetech-about-3-area {
@@ -3050,7 +3057,7 @@ p {
   background: #fff;
   border-radius: 50%;
   box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.05);
-  border-bottom: 5px solid #5f2dee;
+  border-bottom: 5px solid #f47726;
   display: inline-block;
 }
 @media (max-width: 767px) {
@@ -3070,7 +3077,7 @@ p {
 }
 .infetech-about-3-area .about-3-content .main-btn {
   margin-top: 20px;
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
 }
 
 .infetech-about-4-area {
@@ -3142,11 +3149,11 @@ p {
   text-align: center;
   line-height: 65px;
   background: #000;
-  background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+  background-image: -moz-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -webkit-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -ms-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
   box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
-  color: #5f2dee;
+  color: #f47726;
   position: relative;
   z-index: 10;
   font-size: 16px;
@@ -3171,7 +3178,7 @@ p {
   line-height: 30px;
 }
 .about-thumb-content a {
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
 }
 
 /*===========================
@@ -3256,10 +3263,10 @@ p {
   color: #404040;
 }
 .single-infetech-serice-item .content .title a:hover {
-  color: #5f2dee;
+  color: #f47726;
 }
 .single-infetech-serice-item .content .icon {
-  background: #5f2dee;
+  background: #f47726;
   height: 70px;
   width: 70px;
   text-align: center;
@@ -3452,7 +3459,7 @@ p {
   color: #fff;
   font-weight: 800;
   text-transform: uppercase;
-  background: #5f2dee;
+  background: #f47726;
   border: 10px solid #fff;
   border-radius: 50%;
 }
@@ -3513,9 +3520,9 @@ p {
   text-align: center;
   line-height: 90px;
   background: #000;
-  background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+  background-image: -moz-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -webkit-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -ms-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
   box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
   color: #1d1729;
   position: relative;
@@ -3678,7 +3685,7 @@ p {
   transform: translateY(-10px);
 }
 .single-infetech-feature-item:hover .icon {
-  background: #5f2dee;
+  background: #f47726;
 }
 .single-infetech-feature-item:hover .icon svg path {
   fill: #fff;
@@ -3721,9 +3728,9 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: -moz-linear-gradient(180deg, #b882fc 0%, #5f2dee 100%);
-  background-image: -webkit-linear-gradient(180deg, #b882fc 0%, #5f2dee 100%);
-  background-image: -ms-linear-gradient(180deg, #b882fc 0%, #5f2dee 100%);
+  background-image: -moz-linear-gradient(180deg, #b882fc 0%, #f47726 100%);
+  background-image: -webkit-linear-gradient(180deg, #b882fc 0%, #f47726 100%);
+  background-image: -ms-linear-gradient(180deg, #b882fc 0%, #f47726 100%);
   opacity: 0.85;
   z-index: -1;
 }
@@ -3774,7 +3781,7 @@ p {
   }
 }
 .infetech-cta-box .cta-content .main-btn:hover {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
 }
 
@@ -4138,7 +4145,7 @@ p {
 }
 .infetech-project-slide-2 .slick-dots li.slick-active button,
 .infetech-project-slide .slick-dots li.slick-active button {
-  background: #5f2dee;
+  background: #f47726;
 }
 
 .infetech-sponser-area {
@@ -4348,7 +4355,7 @@ p {
   .single-project-slider-item:hover
   .content
   .link {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
 }
 
@@ -4371,7 +4378,7 @@ p {
   font-size: 0;
 }
 .project-slider-active .slick-dots li.slick-active button {
-  background: #5f2dee;
+  background: #f47726;
 }
 
 .infetech-project-3-area {
@@ -4434,7 +4441,7 @@ p {
   top: 0;
   height: 410px;
   width: 100%;
-  background: #5f2dee;
+  background: #f47726;
   z-index: -1;
 }
 .infetech-project-4-area .section-title {
@@ -4503,7 +4510,7 @@ p {
 .projects-details-list-box .projects-list-item .title {
   font-size: 16px;
   font-weight: 700;
-  color: #5f2dee;
+  color: #f47726;
   text-transform: capitalize;
   padding-top: 6px;
 }
@@ -4522,7 +4529,7 @@ p {
   margin-right: 10px;
 }
 .projects-details-list-box .social ul li a:hover {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
 }
 
@@ -4612,7 +4619,7 @@ p {
   transition: all linear 0.3s;
 }
 .projects-details-content .projects-details-page-changer ul li:hover .icon i {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
 }
 
@@ -4736,7 +4743,7 @@ p {
   transform: translate(-50%, -50%);
   height: 130px;
   width: 130px;
-  border: 6px solid #5f2dee;
+  border: 6px solid #f47726;
   border-radius: 50%;
 }
 @media (max-width: 767px) {
@@ -4810,7 +4817,7 @@ p {
   span {
   font-weight: 600;
   font-size: 14px;
-  color: #5f2dee;
+  color: #f47726;
 }
 .infetech-testimonial-area
   .single-testimonial-box
@@ -4902,7 +4909,7 @@ p {
   font-size: 0;
 }
 .infetech-testimonial-slide .slick-dots li.slick-active button {
-  background: #5f2dee;
+  background: #f47726;
 }
 
 .infetech-testimonial-4-area {
@@ -5167,9 +5174,9 @@ p {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  background-image: -moz-linear-gradient(87deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -webkit-linear-gradient(87deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -ms-linear-gradient(87deg, #5f2dee 0%, #b882fc 100%);
+  background-image: -moz-linear-gradient(87deg, #f47726 0%, #b882fc 100%);
+  background-image: -webkit-linear-gradient(87deg, #f47726 0%, #b882fc 100%);
+  background-image: -ms-linear-gradient(87deg, #f47726 0%, #b882fc 100%);
   height: 100%;
   width: 100%;
   border-radius: 50%;
@@ -5188,7 +5195,7 @@ p {
 .testimonial-slide-active-5 .testimonial-slide-item .box .content span {
   font-size: 16px;
   font-weight: 600;
-  color: #5f2dee;
+  color: #f47726;
   padding-bottom: 6px;
 }
 .testimonial-slide-active-5 .testimonial-slide-item .box .content ul li {
@@ -5238,7 +5245,7 @@ p {
   font-size: 0;
 }
 .testimonial-slide-active-5 .slick-dots li.slick-active button {
-  background: #5f2dee;
+  background: #f47726;
 }
 
 /*===========================
@@ -5366,7 +5373,7 @@ p {
   bottom: 80px;
   height: 8px;
   width: 8px;
-  background: #5f2dee;
+  background: #f47726;
 }
 .single-tema-item .thumb {
   overflow: hidden;
@@ -5391,7 +5398,7 @@ p {
   position: absolute;
   right: 0;
   top: 18px;
-  background: #5f2dee;
+  background: #f47726;
   height: 50px;
   width: 50px;
   text-align: center;
@@ -5423,7 +5430,7 @@ p {
   color: #1d1729;
 }
 .single-tema-item .content .share-icon ul li a:hover {
-  color: #5f2dee;
+  color: #f47726;
 }
 .single-tema-item .content .share-icon:hover ul {
   transform: rotateY(0deg);
@@ -5490,7 +5497,7 @@ p {
   bottom: 80px;
   height: 8px;
   width: 8px;
-  background: #5f2dee;
+  background: #f47726;
 }
 .team-details-area .team-details-content {
   padding-left: 70px;
@@ -5519,7 +5526,7 @@ p {
 .team-details-area .team-details-content span {
   font-size: 18px;
   font-weight: 600;
-  color: #5f2dee;
+  color: #f47726;
   margin-bottom: 18px;
   padding-top: 5px;
 }
@@ -5538,13 +5545,13 @@ p {
   font-size: 14px;
 }
 .team-details-area .team-details-content ul li a:hover {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
 }
 .team-details-area .team-details-content h2 {
   font-size: 30px;
   font-weight: 500;
-  color: #5f2dee;
+  color: #f47726;
   line-height: 36px;
 }
 @media (max-width: 767px) {
@@ -5607,7 +5614,7 @@ p {
 .team-progress-area .team-progress-box::before {
   position: absolute;
   content: "";
-  border: 2px solid #5f2dee;
+  border: 2px solid #f47726;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -5818,7 +5825,7 @@ p {
   color: #fff;
 }
 .video-content-wrapper .video-content-box.item-2 {
-  background: #5f2dee;
+  background: #f47726;
 }
 
 /*===========================
@@ -5885,7 +5892,7 @@ p {
   position: absolute;
   top: 20px;
   left: 20px;
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
   font-size: 10px;
   font-weight: 700;
@@ -5946,7 +5953,7 @@ p {
   display: none;
 }
 .single-blog-item .content .blog-meta ul li i {
-  color: #5f2dee;
+  color: #f47726;
 }
 .single-blog-item .content .blog-meta .title a {
   font-size: 24px;
@@ -5988,7 +5995,7 @@ p {
   background: #b882fc;
 }
 .single-blog-item:hover .content .blog-meta .title a {
-  color: #5f2dee;
+  color: #f47726;
 }
 
 .infetech-blog-area-2 {
@@ -6200,7 +6207,7 @@ p {
   }
 }
 .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content span i {
-  color: #5f2dee;
+  color: #f47726;
   padding-right: 4px;
 }
 .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content .title {
@@ -6214,7 +6221,7 @@ p {
   }
 }
 .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item .content .title:hover {
-  color: #5f2dee;
+  color: #f47726;
 }
 .blog-sidebar .blog-widgets.blog-sidebar-list .blog-item:hover {
   background: #fff;
@@ -6252,7 +6259,7 @@ p {
   left: 0;
 }
 .blog-sidebar .blog-widgets.blog-category-sidebar ul li a:hover i {
-  color: #5f2dee;
+  color: #f47726;
 }
 .blog-sidebar .blog-widgets.blog-tags ul {
   padding-left: 20px;
@@ -6271,7 +6278,7 @@ p {
   margin-right: 6px;
 }
 .blog-sidebar .blog-widgets.blog-tags ul li a:hover {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
 }
 
@@ -6345,7 +6352,7 @@ p {
   margin-right: 6px;
 }
 .blog-social-box .blgo-tags-details ul li a {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
   padding: 9px 20px;
   font-size: 12px;
@@ -6372,7 +6379,7 @@ p {
   }
 }
 .blog-social-box .blog-social-details ul li a:hover {
-  color: #5f2dee;
+  color: #f47726;
 }
 
 .blog-post-prev-next {
@@ -6414,7 +6421,7 @@ p {
   color: #1d1729;
 }
 .blog-post-prev-next:hover {
-  background: #5f2dee;
+  background: #f47726;
 }
 .blog-post-prev-next:hover .title a {
   color: #fff;
@@ -6482,7 +6489,7 @@ p {
   position: absolute;
   right: 0;
   top: 0;
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
   line-height: 34px;
   padding: 0 20px;
 }
@@ -6528,7 +6535,7 @@ p {
 }
 .blog-form-box .input-box button {
   margin-top: 20px;
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
 }
 
 /*===========================
@@ -6567,7 +6574,7 @@ p {
   bottom: 0;
   height: 2px;
   width: 17px;
-  background: #5f2dee;
+  background: #f47726;
 }
 @media (max-width: 767px) {
   .infetech-footer-area .title::before {
@@ -6610,7 +6617,7 @@ p {
   font-size: 18px;
 }
 .footer-about ul li a:hover {
-  background: #5f2dee;
+  background: #f47726;
 }
 
 @media (max-width: 767px) {
@@ -6625,7 +6632,7 @@ p {
   line-height: 34px;
 }
 .footer-nav ul li a:hover {
-  color: #5f2dee;
+  color: #f47726;
 }
 
 .footer-newsletter {
@@ -6678,7 +6685,7 @@ p {
   border: 0;
   color: #fff;
   font-size: 18px;
-  background: #5f2dee;
+  background: #f47726;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -7006,7 +7013,7 @@ p {
 .footer-about-4 ul li a {
   font-size: 24px;
   font-weight: 700;
-  color: #5f2dee;
+  color: #f47726;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -7028,7 +7035,7 @@ p {
   line-height: 32px;
 }
 .footer-list-4 ul li a:hover {
-  color: #5f2dee;
+  color: #f47726;
 }
 
 .footer-address {
@@ -7077,7 +7084,7 @@ p {
   line-height: 48px;
   border-radius: 50%;
   color: #fff;
-  background: #5f2dee;
+  background: #f47726;
 }
 
 .infetech-footer-4-area.footer-copyright {
@@ -7200,7 +7207,7 @@ p {
   margin-bottom: 32px;
 }
 .clients-content-box a {
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
 }
 
 .infetech-clients-3-area {
@@ -7375,7 +7382,7 @@ p {
   line-height: 60px;
 }
 .faq-box-area .faq-box-item a:hover {
-  background: #5f2dee;
+  background: #f47726;
   color: #fff;
 }
 
@@ -7445,7 +7452,7 @@ p {
   transition: all linear 0.3s;
 }
 .clients-4-item .icon {
-  background: #5f2dee;
+  background: #f47726;
   height: 100px;
   width: 100px;
   text-align: center;
@@ -7473,7 +7480,7 @@ p {
   background: #fff;
 }
 .clients-4-item:hover .icon svg {
-  fill: #5f2dee;
+  fill: #f47726;
 }
 
 /*===========================
@@ -7703,9 +7710,9 @@ p {
   width: 130px;
   text-align: center;
   line-height: 130px;
-  background-image: -moz-linear-gradient(0deg, #b882fc 0%, #5f2dee 100%);
-  background-image: -webkit-linear-gradient(0deg, #b882fc 0%, #5f2dee 100%);
-  background-image: -ms-linear-gradient(0deg, #b882fc 0%, #5f2dee 100%);
+  background-image: -moz-linear-gradient(0deg, #b882fc 0%, #f47726 100%);
+  background-image: -webkit-linear-gradient(0deg, #b882fc 0%, #f47726 100%);
+  background-image: -ms-linear-gradient(0deg, #b882fc 0%, #f47726 100%);
   position: absolute;
   left: 0;
   bottom: 20px;
@@ -7778,8 +7785,8 @@ p {
   transition: all linear 0.3s;
 }
 .offer-category-item .box:hover a {
-  background: #5f2dee;
-  border-color: #5f2dee;
+  background: #f47726;
+  border-color: #f47726;
 }
 .offer-category-item .box:hover a i {
   color: #fff;
@@ -7851,7 +7858,7 @@ p {
   border: 1px solid #e4e0ee;
   font-weight: 800;
   text-transform: uppercase;
-  color: #5f2dee;
+  color: #f47726;
   padding: 8px 28px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -8089,7 +8096,7 @@ p {
 }
 .promo-banner-item a:hover {
   color: #fff;
-  background: #5f2dee;
+  background: #f47726;
 }
 
 /*===========================
@@ -8376,13 +8383,13 @@ p {
   width: 100%;
   height: 60px;
   line-height: 60px;
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
 }
 
 .infetech-subscribe-area {
   padding-top: 110px;
   padding-bottom: 110px;
-  background: #5f2dee;
+  background: #f47726;
   background-image: url(../images/subscribe-shape.png);
   background-position: top right;
   background-repeat: no-repeat;
@@ -8490,7 +8497,7 @@ p {
 }
 
 .checkbox_common input[type="checkbox"] + label span:before {
-  color: #5f2dee;
+  color: #f47726;
   content: "\f00c";
   font-family: "Font Awesome 5 Pro";
   font-size: 9px;
@@ -8563,9 +8570,9 @@ p {
   text-align: center;
   line-height: 90px;
   border-radius: 50%;
-  background-image: -moz-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -webkit-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
-  background-image: -ms-linear-gradient(0deg, #5f2dee 0%, #b882fc 100%);
+  background-image: -moz-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -webkit-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
+  background-image: -ms-linear-gradient(0deg, #f47726 0%, #b882fc 100%);
   box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
   position: relative;
   z-index: 10;
@@ -8732,7 +8739,7 @@ p {
 .benefits-content .content-box span {
   font-size: 20px;
   font-weight: 700;
-  color: #5f2dee;
+  color: #f47726;
 }
 .benefits-content .content-box p {
   color: #6c6a72;
@@ -8782,7 +8789,7 @@ p {
   }
 }
 .benefits-content > a {
-  border: 1px solid #5f2dee;
+  border: 1px solid #f47726;
   margin-top: 48px;
 }
 
@@ -8815,7 +8822,7 @@ p {
   top: 0;
   height: 100%;
   width: 0%;
-  background: #5f2dee;
+  background: #f47726;
   z-index: -4;
   transition: all linear 0.3s;
   opacity: 0;
@@ -8940,7 +8947,7 @@ p {
   font-weight: 600;
   font-size: 18px;
   line-height: 30px;
-  color: #5f2dee;
+  color: #f47726;
   margin-bottom: 25px;
 }
 .solutions-content .solutions-box-content p {
@@ -9116,7 +9123,7 @@ p {
 .single-pricing-box .price-box > span {
   font-size: 60px;
   font-weight: 800;
-  color: #5f2dee;
+  color: #f47726;
   padding-top: 25px;
   transition: all linear 0.3s;
 }
@@ -9140,7 +9147,7 @@ p {
 .single-pricing-box .price-featured span {
   font-size: 18px;
   font-weight: 600;
-  color: #5f2dee;
+  color: #f47726;
   padding-bottom: 8px;
   transition: all linear 0.3s;
 }
@@ -9187,7 +9194,7 @@ p {
 .single-pricing-box.active .price-featured a {
   border: 1px solid #fff;
   background: #fff;
-  color: #5f2dee;
+  color: #f47726;
 }
 
 /*# sourceMappingURL=style.css.map */
