@@ -31,7 +31,7 @@
                        <h4 class="title">Orangebits</h4>
                        <ul>
                            <li><a href="./index">Home</a></li>
-                           <li><a href="./about_us">About us</a></li>
+                           <li><a href="./about-us">About us</a></li>
                            <li><a href="#">Blogs</a></li>
                            <li><a href="#">Career</a></li>
                            <li><a href="#">Life at Orangebits</a></li>

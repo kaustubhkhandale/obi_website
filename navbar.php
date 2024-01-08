@@ -3,7 +3,7 @@
         <li class="main-li">
             <a href="./index">Home</a>
         </li>
-        <li class="main-li"><a href="./about_us">About</a></li>
+        <li class="main-li"><a href="./about-us">About</a></li>
 
         <li class="main-li">
             <a href="#">Our Services</a>

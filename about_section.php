@@ -19,9 +19,10 @@
                         <span>About Our Company</span>
                         <h3 class="title">Making the power of technology more influential with inventions.</h3>
                         <p>
-                            There are many variations of passages of Lorem Ipsum available,
-                            but the majority have suffered alteration in some form, by
-                            injected humour, or randomised words which don't look even.
+                            With a passion for slice- edge results and driving positive change, our cooperation aims to
+                            foster invention, accelerate growth, and make a continuing impact in the request. Together,
+                            we will work our moxie, coffers, and cooperative mindset to attack challenges, explore new
+                            openings, and produce a brighter future.
                         </p>
                         <div class="row">
                             <div class="col-md-6">
@@ -40,26 +41,12 @@
                                         <img src="assets/images/icon/icon-2.png" alt="" />
                                     </div>
                                     <div class="content">
-                                        <h4 class="title">Website Development</h4>
+                                        <h4 class="title">App Development</h4>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <ul>
-                            <li>
-                                <i class="fas fa-check-circle"></i> Exploring version oflorem
-                                veritatis proin
-                            </li>
-                            <li>
-                                <i class="fas fa-check-circle"></i> Auctor aliquet aenean
-                                simply free text veritatis quis
-                            </li>
-                            <li>
-                                <i class="fas fa-check-circle"></i> Consequat ipsum nec lorem
-                                sagittis sem nibh.
-                            </li>
-                        </ul>
-                        <a href="#" class="main-btn">Learn More</a>
+
                     </div>
                 </div>
             </div>
