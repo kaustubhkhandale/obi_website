@@ -11,60 +11,64 @@
                        </p>
                        <ul>
                            <li>
-                               <a href="#"><i class="fab fa-twitter"></i></a>
+                               <a href="https://twitter.com/orangebitsind"><i class="fab fa-twitter"></i></a>
                            </li>
                            <li>
-                               <a href="#"><i class="fab fa-facebook-f"></i></a>
+                               <a href="https://www.facebook.com/orangebitsindia"><i class="fab fa-facebook-f"></i></a>
                            </li>
                            <li>
-                               <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                               <a href="https://www.linkedin.com/company/orangebitsindia/"><i
+                                       class="fab fa-linkedin-in"></i></a>
                            </li>
                            <li>
-                               <a href="#"><i class="fab fa-instagram"></i></a>
+                               <a href="https://www.instagram.com/orangebitsindia"><i class="fab fa-instagram"></i></a>
                            </li>
                        </ul>
                    </div>
                </div>
                <div class="col-lg-2 col-md-6">
                    <div class="footer-nav">
-                       <h4 class="title">Links</h4>
+                       <h4 class="title">Orangebits</h4>
                        <ul>
-                           <li><a href="#">Home</a></li>
-                           <li><a href="#">About us</a></li>
+                           <li><a href="./index">Home</a></li>
+                           <li><a href="./about_us">About us</a></li>
                            <li><a href="#">Blogs</a></li>
                            <li><a href="#">Career</a></li>
                            <li><a href="#">Life at Orangebits</a></li>
                        </ul>
                    </div>
                </div>
-               <div class="col-lg-4 col-md-6">
-                   <div class="footer-newsletter">
-                       <h4 class="title">Newsletter</h4>
-                       <p>
-                           Signup for our latest news & articles. We won’t give you spam
-                           mails.
-                       </p>
-                       <form action="#">
-                           <div class="input-box">
-                               <input type="text" placeholder="Email Address" />
-                               <button><i class="far fa-paper-plane"></i></button>
-                           </div>
-                       </form>
+               <div class="col-lg-2 col-md-6">
+                   <div class="footer-nav">
+                       <h4 class="title">Services</h4>
+                       <ul>
+                           <li><a href="#">App Development</a></li>
+                           <li><a href="#">Software Development</a></li>
+                           <li><a href="#">Digital Solutions</a></li>
+                           <li><a href="#">Industry Solutions</a></li>
+                       </ul>
                    </div>
                </div>
-               <div class="col-lg-3 col-md-6">
-                   <div class="footer-info">
-                       <h4 class="title">Contact</h4>
+               <div class="col-lg-2 col-md-6">
+                   <div class="footer-nav">
+                       <h4 class="title">Industries</h4>
                        <ul>
-                           <li>
-                               <i class="fas fa-phone"></i><span>+ 88 ( 9800 ) 6802</span>
-                           </li>
-                           <li>
-                               <i class="fas fa-envelope"></i><span>needhelp@company.com</span>
-                           </li>
-                           <li>
-                               <i class="fas fa-map-marker"></i><span>88 Broklyn Golden Road Street New York. USA</span>
-                           </li>
+                           <li><a href="#">Edutech</a></li>
+                           <li><a href="#">Healthcare</a></li>
+                           <li><a href="#">E-Commerce</a></li>
+                           <li><a href="#">Fintech</a></li>
+                       </ul>
+                   </div>
+               </div>
+               <div class="col-lg-2 col-md-6">
+                   <div class="footer-nav">
+                       <h4 class="title">Quick Links</h4>
+                       <ul>
+                           <li><a href="#">Edutech</a></li>
+                           <li><a href="#">Healthcare</a></li>
+                           <li><a href="#">E-Commerce</a></li>
+                           <li><a href="#">Fintech</a></li>
+
                        </ul>
                    </div>
                </div>
@@ -73,8 +77,8 @@
    </footer>
    <div class="footer-copyright text-center">
        <p>
-           © All Copyright 2022 by
-           <a href="mailto:pixydrops@gmail.com">Pixydrops</a>
+           © All Copyright 2024 by
+           <a href="mailto:pixydrops@gmail.com">Orangebits Software Technologies (India) Pvt. Ltd.</a>
        </p>
    </div>
 

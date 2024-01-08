@@ -2568,7 +2568,7 @@ p {
   background-position: top right;
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: 124px;
+  margin-top: 102px;
   padding: 151px 0 135px;
   position: relative;
   z-index: 10;
@@ -6714,7 +6714,7 @@ p {
 .footer-info ul li i {
   color: #000;
   font-size: 14px;
-  color: #b882fc;
+  color: #4c4c4c;
 }
 
 .footer-copyright {
@@ -6726,7 +6726,7 @@ p {
   color: #b0a9c0;
 }
 .footer-copyright p a {
-  color: #b882fc;
+  color: #f47726;
 }
 
 /*===== Go Top =====*/

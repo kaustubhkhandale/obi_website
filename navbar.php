@@ -1,9 +1,9 @@
 <div class="header-main-nav-box">
     <ul>
         <li class="main-li">
-            <a href="#">Home</a>
+            <a href="./index">Home</a>
         </li>
-        <li class="main-li"><a href="about.html">About</a></li>
+        <li class="main-li"><a href="./about_us">About</a></li>
 
         <li class="main-li">
             <a href="#">Our Services</a>
