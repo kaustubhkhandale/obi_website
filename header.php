@@ -2,12 +2,12 @@
     <div class="top-line"></div>
     <div class="header-main-nav-layout-2 header-sticky">
         <div class="row align-items-center">
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <div class="logo-white">
                     <a href="index-2.html"><img src="assets/images/logo-orangebitsindia-768x165" alt=""></a>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-7">
                 <?php include("navbar.php")?>
             </div>
             <div class="col-md-3">
