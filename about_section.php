@@ -11,7 +11,7 @@
                             <h4 class="title">6800 <sup>+</sup></h4>
                             <span>Satisfied Clients</span>
                         </div>
-                        <img class="about-logo" src="assets/images/about-logo.png" alt="" />
+                        <!-- <img class="about-logo" src="assets/images/obi-circle.png" alt="" width="171" /> -->
                     </div>
                 </div>
                 <div class="col-lg-6">
