@@ -6,7 +6,7 @@
         <li class="main-li"><a href="./about-us">About</a></li>
 
         <li class="main-li">
-            <a href="#">Our Services</a>
+            <a href="./services.php">Our Services</a>
             <ul class="sub-menu">
                 <li>
                     <a href="#">App Development</a>
