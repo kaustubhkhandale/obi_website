@@ -113,6 +113,6 @@
         <li class="main-li"><a href="#">Industry</a></li>
         <li class="main-li"><a href="#">Blogs</a></li>
         <li class="main-li"><a href="#">Career</a></li>
-        <li class="main-li"><a href="contact.html">Contact</a></li>
+        <li class="main-li"><a href="./contact-us">Contact</a></li>
     </ul>
 </div>

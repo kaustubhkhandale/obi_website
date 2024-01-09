@@ -202,7 +202,65 @@
                      </div>
                      <div class="content">
                          <h4 class="title">Rachana Merai</h4>
-                         <span>VP Sales</span>
+                         <span>AVP Business Development</span>
+                         <div class="share-icon">
+                             <i class="fas fa-share-alt"></i>
+                             <ul>
+                                 <li>
+                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                 </li>
+                                 <li>
+                                     <a href="#"><i class="fab fa-twitter"></i></a>
+                                 </li>
+                                 <li>
+                                     <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                 </li>
+                                 <li>
+                                     <a href="#"><i class="fab fa-instagram"></i></a>
+                                 </li>
+                             </ul>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-md-6 mb-3">
+                 <div class="single-tema-item animated wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
+                     <div class="top-line"></div>
+                     <div class="thumb">
+                         <img src="assets/images/team-3.jpg" alt="" />
+                     </div>
+                     <div class="content">
+                         <h4 class="title">Rahul Raut</h4>
+                         <span>Head – DevOps & Automation </span>
+                         <div class="share-icon">
+                             <i class="fas fa-share-alt"></i>
+                             <ul>
+                                 <li>
+                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                 </li>
+                                 <li>
+                                     <a href="#"><i class="fab fa-twitter"></i></a>
+                                 </li>
+                                 <li>
+                                     <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                 </li>
+                                 <li>
+                                     <a href="#"><i class="fab fa-instagram"></i></a>
+                                 </li>
+                             </ul>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-md-6 mb-3">
+                 <div class="single-tema-item animated wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
+                     <div class="top-line"></div>
+                     <div class="thumb">
+                         <img src="assets/images/team-3.jpg" alt="" />
+                     </div>
+                     <div class="content">
+                         <h4 class="title">Monica Dwivedi</h4>
+                         <span>Sr. Project Manager</span>
                          <div class="share-icon">
                              <i class="fas fa-share-alt"></i>
                              <ul>
